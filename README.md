@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GuOCoelho
+- 👀 I’m interested in becoming a developer, being able to participate in projects around the world regardless on my current country.
+- 🌱 I’m currently learning how to code in Python, by following the 100 Days of Code Udemy course by Dr. Angela Yu.
+- 💞️ I’m looking to collaborate on nothing for the moment, but certainly it will come
+- 📫 You can reach me at oliveiracoelho.gustavo@gmail.com
